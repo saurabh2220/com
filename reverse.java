@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class reverseString {
+==public class reverseString {
     public static void main(String[] args) {
         String input="";
         System.out.println("Enter the input string");
